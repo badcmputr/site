@@ -20,8 +20,8 @@ author:
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
-url: "badcmputr.github.io" #
-baseurl:
+url: "https://badcmputr.github.io/site/" #
+baseurl: "https://badcmputr.github.io/site/"
 permalink: /:title/
 google_analytics: # leave it blank if not wish
 fb_appid:
